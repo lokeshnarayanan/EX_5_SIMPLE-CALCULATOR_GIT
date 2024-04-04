@@ -1,5 +1,5 @@
 # EX_5_SIMPLE-CALCULATOR_GIT
-Develop a program to create a simple calculator using Android Studio.
+
 
 ## AIM:
 To develop a program to create a simple calculator using Android Studio.
